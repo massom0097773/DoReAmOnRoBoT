@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/mrtosumemon/Doreamonrobot",
+   "repository": "https://github.com/massom0097773/Doreamonrobot",
    "stack": "heroku-22",
    "addons": [
       {
